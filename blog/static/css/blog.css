@@ -1,0 +1,25 @@
+body {
+  font: 16px/1.5 sans-serif;
+  color: #333;
+}
+
+img {
+  width: 100%;
+}
+
+article {
+  max-width: 600px;
+  margin: 0 auto 5em;
+}
+
+h1 {
+  font-family: Bitter, serif;
+}
+
+h1 a {
+  color: #333;
+}
+
+p {
+  margin-bottom: 2em;
+}
